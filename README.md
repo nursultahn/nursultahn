@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет! Я Nursultan Marat 👋
 
-<!--
-**nursultahn/nursultahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я инженер-исследователь в области машинного обучения из Алматы, Казахстан. У меня есть опыт в сборе, анализе и интерпретации больших данных, разработке новых прогностических моделей и организации рабочего процесса команды разработки ML. Мои навыки также включают создание ML-сервиса от организации репозитория до настройки CI/CD и интеграции модели ML в работу.
 
-Here are some ideas to get you started:
+## 📫 Как со мной связаться:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Почта: [nrsltnmrt@gmail.com](mailto:nrsltnmrt@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nursultahn)
+
+## ⚡ Навыки:
+
+- Machine Learning, Data Analysis, Forecasting Models
+- Java, Python, Fast API
+- MySQL, PostgreSQL
