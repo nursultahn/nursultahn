@@ -1,14 +1,13 @@
-# Привет! Я Nursultan Marat 👋
+# Hello! I'm Nursultan Marat 👋
 
-Я инженер-исследователь в области машинного обучения из Алматы, Казахстан. У меня есть опыт в сборе, анализе и интерпретации больших данных, разработке новых прогностических моделей и организации рабочего процесса команды разработки ML. Мои навыки также включают создание ML-сервиса от организации репозитория до настройки CI/CD и интеграции модели ML в работу.
+I am a Machine Learning Engineer from Almaty, Kazakhstan. I have experience in collecting, analyzing, and interpreting large datasets, developing new forecasting models. My skills also include creating an ML service from organizing a repository to configuring CI/CD, and integrating the ML model into operation.
 
-## 📫 Как со мной связаться:
+## 📫 How to reach me:
 
-- Почта: [nrsltnmrt@gmail.com](mailto:nrsltnmrt@gmail.com)
+- Email: [nrsltnmrt@gmail.com](mailto:nrsltnmrt@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nursultahn)
 
-## ⚡ Навыки:
+## ⚡ Skills:
 
-- Machine Learning, Data Analysis, Forecasting Models
-- Java, Python, Fast API
-- MySQL, PostgreSQL
+- Machine Learning, Data Analysis
+- Python, Java, Fast API, SQL, Linux, Docker
